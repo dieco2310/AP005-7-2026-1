@@ -3,7 +3,7 @@
 # ==============================
 
 # 1. Tupla (información fija del sistema)
-categorias = ("Tecnología", "Ropa", "Alimentos", "Hogar")
+categorias = ("Vapes", "Snacks(munchies :>)", "Bebidas(Pa´ la seca)", "Productos varios")
 
 # 2. Lista para almacenar productos
 inventario = []
